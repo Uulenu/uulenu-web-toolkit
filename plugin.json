@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "uulenu-web-toolkit",
+  "version": "1.0.0",
+  "description": "Frontend engineering toolkit for building polished React and Next.js experiences with React Three Fiber, GSAP, Lenis, Three.js, and Liquid Glass."
+}
