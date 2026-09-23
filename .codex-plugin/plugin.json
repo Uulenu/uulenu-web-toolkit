@@ -1,0 +1,6 @@
+{
+  "name": "uulenu-web-toolkit",
+  "version": "1.0.0",
+  "description": "Frontend engineering toolkit for React, Next.js, React Three Fiber, Three.js, GSAP, Lenis, and Liquid Glass.",
+  "skills": "./skills/"
+}
